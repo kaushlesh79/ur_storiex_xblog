@@ -1,4 +1,4 @@
-# Blog Website - Ur Storiex XBlog
+# Blog Website - Ur_Storiex XBlog
 
 Welcome to **Ur Storiex XBlog**, a modern blog website where users can create, view, and manage blogs with ease. The platform offers features such as authentication, responsiveness, and interactive blog management. It’s built using React, Redux Toolkit, and a mock server with a `db.json` file for data storage.
 
