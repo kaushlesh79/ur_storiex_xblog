@@ -30,10 +30,10 @@ Welcome to **Ur Storiex XBlog**, a modern blog website where users can create, v
 ## Screenshots
 
 ### Login Page
-![Login Page](client/src/assets/screenshots/Login Page.png)
+![Login Page](client/src/assets/screenshots/Login%20Page.png)
 
 ### Next Page
-![Next Page](client/src/assets/screenshots/Next Page.png)
+![Next Page](client/src/assets/screenshots/Next%20Page.png)
 
 ### Responsiveness
 ![Responsiveness](client/src/assets/screenshots/Responsiveness.png)
