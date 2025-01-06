@@ -26,6 +26,25 @@ Welcome to **Ur Storiex XBlog**, a modern blog website where users can create, v
 - **Navigation**:
   - Move to the next page to view more blogs from other users.
 
+
+## Screenshots
+
+### Login Page
+![Login Page](client/src/assets/screenshots/Login Page.png)
+
+### Next Page
+![Next Page](client/src/assets/screenshots/Next Page.png)
+
+### Responsiveness
+![Responsiveness](client/src/assets/screenshots/Responsiveness.png)
+
+### Searching
+![Searching](client/src/assets/screenshots/Searching.png)
+
+### Trending Popular Blog
+![Trending Popular Blog](client/src/assets/screenshots/Trending_Popularblog.png)
+
+
 ## Tech Stack
 
 - **Frontend**:
