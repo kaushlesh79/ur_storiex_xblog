@@ -5,7 +5,7 @@ import { FaBars } from "react-icons/fa6";
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
-
+ 
   useEffect(() => {
     const handleScroll = () => {
       const scrollPosition = window.scrollY;
